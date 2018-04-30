@@ -1,0 +1,3 @@
+C:\Users\Donald\Documents\Capstone-B---Haptic-Middleware-System\src\hcehs\AutoItSandbox\AutoItSandbox\bin\Debug\AutoItSandbox.exe.config
+C:\Users\Donald\Documents\Capstone-B---Haptic-Middleware-System\src\hcehs\AutoItSandbox\AutoItSandbox\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Donald\Documents\Capstone-B---Haptic-Middleware-System\src\hcehs\AutoItSandbox\AutoItSandbox\obj\Debug\AutoItSandbox.csproj.ResolveComReference.cache
