@@ -1,7 +1,9 @@
 C:\Users\Donald\Documents\whatsappbomb\BulkGroupCreator\BulkGroupCreator\bin\Debug\BulkGroupCreator.exe.config
 C:\Users\Donald\Documents\whatsappbomb\BulkGroupCreator\BulkGroupCreator\bin\Debug\BulkGroupCreator.exe
 C:\Users\Donald\Documents\whatsappbomb\BulkGroupCreator\BulkGroupCreator\bin\Debug\BulkGroupCreator.pdb
-C:\Users\Donald\Documents\whatsappbomb\BulkGroupCreator\BulkGroupCreator\obj\Debug\BulkGroupCreator.csprojResolveAssemblyReference.cache
+C:\Users\Donald\Documents\whatsappbomb\BulkGroupCreator\BulkGroupCreator\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\Donald\Documents\whatsappbomb\BulkGroupCreator\BulkGroupCreator\obj\Debug\BulkGroupCreator.csproj.ResolveComReference.cache
+C:\Users\Donald\Documents\whatsappbomb\BulkGroupCreator\BulkGroupCreator\obj\Debug\BulkGroupCreator.Form1.resources
 C:\Users\Donald\Documents\whatsappbomb\BulkGroupCreator\BulkGroupCreator\obj\Debug\BulkGroupCreator.Properties.Resources.resources
 C:\Users\Donald\Documents\whatsappbomb\BulkGroupCreator\BulkGroupCreator\obj\Debug\BulkGroupCreator.csproj.GenerateResource.Cache
 C:\Users\Donald\Documents\whatsappbomb\BulkGroupCreator\BulkGroupCreator\obj\Debug\BulkGroupCreator.exe
